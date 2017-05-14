@@ -1,0 +1,23 @@
+{
+  "name": "dotinstall.socket.io.tur",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitoshi-t-pepe3/dotinstall.socket.io.tur.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitoshi-t-pepe3/dotinstall.socket.io.tur/issues"
+  },
+  "homepage": "https://github.com/hitoshi-t-pepe3/dotinstall.socket.io.tur#readme"
+}
